@@ -166,7 +166,6 @@ aside p {
     display: flex;
     padding: .25rem 0 .5rem 0;
     font-size: .25rem;
-    border: solid 1px black;
 }
 
 .subsection {
